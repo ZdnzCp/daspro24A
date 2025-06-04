@@ -1,0 +1,15 @@
+================
+NIM: 20240040184
+Nama: Zaidan
+Alamat: Jl. Bojongloa
+Kelas: TI24
+================
+NIM: 20230040184
+Nama: Zaidun
+Alamat: Jl. Bojonglopang
+Kelas: TI23
+================
+NIM: 20240030183
+Nama: Yuzas
+Alamat: Jl. Lonely
+Kelas: TI24
